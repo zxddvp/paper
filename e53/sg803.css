@@ -1,0 +1,18 @@
+body{
+	font-size: 12px;
+}
+td{
+	font-size: 12px;
+}
+.login_input{
+	background-attachment: fixed;
+	background-image: url(images/login_05.jpg);
+	background-repeat: repeat-x;
+	background-position: center center;
+	height: 18px;
+	width: 86px;
+	font-size: 12px;
+	border: 0px none #820000;
+	padding-top: 3px;
+	color: #730000;
+}
